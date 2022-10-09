@@ -1,0 +1,10 @@
+<movie>
+    <name>2001: Space Odyssey</name>
+    <year>1968</year>
+    <country>
+        <name>United States</name>
+    </country>
+    <genre>
+        <name>Sci-Fi</name>
+    </genre>
+</movie>

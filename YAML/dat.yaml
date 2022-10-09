@@ -1,0 +1,7 @@
+movie:
+  name: "2001 Space Odyssey"
+  year: 1968
+  country:
+    name: "United States"
+  genre:
+    name: "Sci-Fi"
